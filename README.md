@@ -10,6 +10,8 @@ A free and open-source inpainting & image-upscaling tool powered by webgpu and w
 
 </div>
 
+### 添加模型文件，无需科学上网即可在本地运行使用
+
 ## Inpaint（图片修复）
 
 https://github.com/lxfater/inpaint-web/assets/22794120/bcad4812-02ae-48bb-9e84-94dfeb7234f5
