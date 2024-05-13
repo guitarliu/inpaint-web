@@ -10,7 +10,7 @@ A free and open-source inpainting & image-upscaling tool powered by webgpu and w
 
 </div>
 
-### 添加模型文件，无需科学上网即可在本地运行使用
+### “ 注意： 在原代码基础上添加模型文件，修改cache.ts文件中模型文件路径，无需科学上网即可在本地运行使用 ”
 
 ## Inpaint（图片修复）
 
